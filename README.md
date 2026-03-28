@@ -1,2 +1,2 @@
 # peteralexa.github.io
-anisette server list for side store
+Custom anisette server list for side store
